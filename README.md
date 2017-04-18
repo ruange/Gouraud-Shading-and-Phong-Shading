@@ -16,7 +16,7 @@ Before talking about Gouraud Shading and Phong Shading,we need to know the refle
 
 ![](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading/blob/master/photo%20and%20gif/specular.JPG)
 
-**Put all together:**
+**(4)Put all together:**
 
 ![](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading/blob/master/photo%20and%20gif/together.JPG)
 
