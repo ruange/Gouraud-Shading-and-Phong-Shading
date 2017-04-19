@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TemplateProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\宗明\desktop\phongshading\main.cpp(24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  glWindow.cpp
+  glutwindow.cpp
+  glsl.cpp
+c:\users\宗明\desktop\phongshading\cwc\source\glsl.cpp(1351): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned long”，可能丢失数据
+c:\users\宗明\desktop\phongshading\cwc\source\glsl.cpp(1353): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned long”，可能丢失数据
+  glApplication.cpp
+  正在生成代码...
+  glew.c
+  freeglut_window.c
+  fgSetupPixelFormat(): there is still some work to do here!
+  freeglut_videoresize.c
+  freeglut_teapot.c
+  freeglut_structure.c
+  freeglut_stroke_roman.c
+  freeglut_stroke_mono_roman.c
+  freeglut_state.c
+  freeglut_overlay.c
+  freeglut_misc.c
+  freeglut_menu.c
+  freeglut_main.c
+  freeglut_joystick.c
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_joystick.c(1000): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_joystick.c(1012): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_joystick.c(1020): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_joystick.c(1249): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  freeglut_init.c
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_init.c(520): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 参见“getenv”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_init.c(524): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_init.c(533): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 参见“getenv”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_init.c(713): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_init.c(883): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+  freeglut_glutfont_definitions.c
+  freeglut_geometry.c
+  freeglut_gamemode.c
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(393): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(395): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(396): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(397): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(398): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(399): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+c:\users\宗明\desktop\phongshading\freeglut\source\freeglut_gamemode.c(400): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+  freeglut_font_data.c
+  freeglut_font.c
+  freeglut_ext.c
+  正在生成代码...
+  正在编译...
+  freeglut_display.c
+  freeglut_cursor.c
+  freeglut_callbacks.c
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\宗明\Desktop\PhongShading\Debug\PhongShading.exe) does not match the Linker's OutputFile property value (C:\Users\宗明\Desktop\PhongShading\Debug\TemplateProject.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(PhongShading) does not match the Linker's OutputFile property value (TemplateProject). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+glApplication.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  PhongShading.vcxproj -> C:\Users\宗明\Desktop\PhongShading\Debug\PhongShading.exe
+  PhongShading.vcxproj -> Debug\TemplateProject.pdb (Full PDB)

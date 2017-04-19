@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PhongShading.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\宗明\desktop\phongshading\main.cpp(24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\宗明\desktop\phongshading\main.cpp(129): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\宗明\desktop\phongshading\main.cpp(129): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  glutwindow.cpp
+  glsl.cpp
+  glWindow.cpp
+  glApplication.cpp
+  TemplateProject.vcxproj -> C:\Users\宗明\Desktop\PhongShading\Debug\TemplateProject.exe
+  TemplateProject.vcxproj -> Debug\TemplateProject.pdb (Full PDB)
